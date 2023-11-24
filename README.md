@@ -1,1 +1,1 @@
-# ratio24-multilingual-cam
+# Extending the Comparative Argumentative Machine: Multilingualism and Stance Detection
