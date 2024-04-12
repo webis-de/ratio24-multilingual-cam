@@ -1,6 +1,6 @@
-# Copied from Touché Task 2: Argument Retrieval for Comparative Questions ([link](https://github.com/alebondarenko/ratio24-new-cam/touche-instructions/2021-task-2-instruction.md))
+# Copied from Touché Task 2: Argument Retrieval for Comparative Questions ([link](https://github.com/alebondarenko/ratio24-new-cam/blob/main/touche-instructions/2021-task-2-instruction.md))
 
-The goal of Task 2 is to support users facing some choice problem from "everyday life". Given a comparative question, the task is to retrieve and rank documents from the [ClueWeb12](https://lemurproject.org/clueweb12/) that help to answer the comparative question.
+The goal is to support users facing some choice problem from "everyday life". Given a comparative question, the task is to retrieve and rank documents from the Common Crawl using CAM that help to answer the comparative question.
 
 Each comparison search task is represented as a topic, where the *title* is a comparative question. The topic *description* represents a detailed search scenario, and the *narrative* describes what documents would be considered (highly) relevant.
 
