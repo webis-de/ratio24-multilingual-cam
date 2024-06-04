@@ -2,7 +2,8 @@
 
 This repository is being actively updated.
 ### Code
-* Notebooks to fine-tune stance classifiers: [stance-detection](code/stance-detection).
+* Notebooks to fine-tune stance classifiers: [code/stance-detection](code/stance-detection).
+* Code used to analyze the results of the user study: [comparison-translated-and-replicated-systems](comparison-translated-and-replicated-systems).
 ### Data
-* Annotation guidelines are [here](data/guidelines).
+* Annotation guidelines are in [data/guidelines](data/guidelines).
 * Train and test splits are in [data](data).
