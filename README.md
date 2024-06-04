@@ -3,5 +3,5 @@
 This repository is being actively updated.
 
 ### Data
-* Annotation guidelines are [here](https://github.com/webis-de/ratio24-multilingual-cam/tree/main/data/guidelines).
+* Annotation guidelines are [here](data/guidelines).
 * Train and test splits are in [data](data).
