@@ -2,4 +2,5 @@
 
 This repository is being actively updated.
 
-[Guidelines](https://github.com/webis-de/ratio24-multilingual-cam/tree/main/data/guidelines)
+### Data
+* Annotation guidelines are [here](https://github.com/webis-de/ratio24-multilingual-cam/tree/main/data/guidelines).
